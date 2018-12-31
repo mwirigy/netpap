@@ -1,3 +1,10 @@
+a {
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+}
+
+
 .content {
   position: relative;
   width: 100%;
@@ -105,4 +112,8 @@ form {
 
 .nav-pills .nav-link.active {
   background-color: #28a745;
+}
+
+.btn-ad {
+  margin: 0 auto;
 }
